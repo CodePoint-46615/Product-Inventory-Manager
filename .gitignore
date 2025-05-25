@@ -1,0 +1,5 @@
+#Ingore these file
+*.bat
+*.ps1
+*.sh
+*.pdf
